@@ -12,4 +12,4 @@ It was used:
 This web application was developed following the video tutorials from:\
 User: https://github.com/flatplanet
 \
-https://www.youtube.com/playlist?list=PLCC34OHNcOtrk3BDsfZwf4GattdLoKCOF
+Tutorials: https://www.youtube.com/playlist?list=PLCC34OHNcOtrk3BDsfZwf4GattdLoKCOF

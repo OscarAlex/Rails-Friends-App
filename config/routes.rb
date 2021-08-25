@@ -1,8 +1,12 @@
 Rails.application.routes.draw do
+  devise_for :users
   resources :friends
   #Make home/index the root route
-  root 'home#index'
+  #root 'home#index'
   #get 'home/index'
+
+  #Friends list the root
+  root 'friends#index'
 
   #About route
   get 'home/about'

@@ -1,2 +1,3 @@
 class Friend < ApplicationRecord
-end
+    belongs_to :user
+end 

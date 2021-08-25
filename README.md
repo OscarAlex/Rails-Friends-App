@@ -8,3 +8,7 @@ It was used:
 * Yarn 1.22.11
 * Node v12.18.3
 * Npm 6.14.6
+
+This web application was developed following the video tutorials from:\
+https://www.youtube.com/playlist?list=PLCC34OHNcOtrk3BDsfZwf4GattdLoKCOF
+user: https://github.com/flatplanet

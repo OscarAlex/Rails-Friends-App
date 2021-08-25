@@ -10,5 +10,6 @@ It was used:
 * Npm 6.14.6
 
 This web application was developed following the video tutorials from:\
+User: https://github.com/flatplanet
+\
 https://www.youtube.com/playlist?list=PLCC34OHNcOtrk3BDsfZwf4GattdLoKCOF
-\User: https://github.com/flatplanet
